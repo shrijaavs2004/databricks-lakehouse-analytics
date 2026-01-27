@@ -1,0 +1,15 @@
+# Databricks
+.databricks/
+*.dbc
+
+# Data files
+*.csv
+*.parquet
+*.delta
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
