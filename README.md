@@ -18,8 +18,11 @@ The pipeline follows a Bronze–Silver–Gold (Medallion) architecture:
 ## Project Structure
 (databricks-lakehouse-analytics/)
 ├── ingestion/
+
 ├── transformations/
+
 ├── analytics/
+
 ├── modeling/
 
 ## Status
